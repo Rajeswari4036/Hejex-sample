@@ -1,0 +1,18 @@
+
+body{
+   background-image:url(cloudimg.jpeg);	
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   background-size:cover;
+}
+.title{
+   color:pink;
+   background-color:white;
+   height:50px;
+}
+.odd{
+	color:#9E2252;
+}
+.even{
+	color:#303773;
+}
